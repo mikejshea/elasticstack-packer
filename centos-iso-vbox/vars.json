@@ -1,0 +1,8 @@
+{
+  "iso_path": "/home/mshea/Projects/Packer/CentOS-7-x86_64-Minimal-1708.iso",
+  "vm_name": "dashboard-1",
+  "output_directory": "/home/mshea/Projects/vms/dashboard-1",
+  "cpus": "2",
+  "memory": "2048",
+  "prim_disk_size": "20000"
+}
