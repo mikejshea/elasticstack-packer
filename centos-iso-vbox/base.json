@@ -20,7 +20,7 @@
       "ssh_username": "root",
       "ssh_password": "dashboard",
       "ssh_port": 22,
-      "ssh_wait_timeout": "900s",
+      "ssh_wait_timeout": "1800s",
       "shutdown_command": "shutdown -P now",
       "output_directory": "{{ user `output_directory` }}",
       "http_directory": "http",
