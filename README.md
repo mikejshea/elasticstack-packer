@@ -29,3 +29,8 @@ Building the VM can take quite a while.
 1.  In the ```/root``` folder, execute ```./post_install.sh```
 1.  Modify the files as instructed.
 1.  In the ```/root``` folder, execute ```./stack_restart.sh```
+
+### Endpoints
+
+http://ipaddress:9200 - ElasticSearch
+http://ipaddress:5601 - Kibana
